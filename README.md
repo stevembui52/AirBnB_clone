@@ -2,13 +2,13 @@
 
 ### Contents
 
-* [Description](https://github.com/Juaco121/AirBnB_clone#description)
-* [Files in This Repository](https://github.com/Juaco121/AirBnB_clone#files-in-this-repository)
-* [Usage](https://github.com/Juaco121/AirBnB_clone#usage)
-* [Installation](https://github.com/Juaco121/AirBnB_clone#installation)
-* [Example Usage](https://github.com/Juaco121/AirBnB_clone#example-usage)
-* [Technologies Used](https://github.com/Juaco121/AirBnB_clone#technologies-used)
-* [Authors](https://github.com/Juaco121/AirBnB_clone#authors)
+* [Description](https://github.com/Muigai-ben/AirBnB_clone#description)
+* [Files in This Repository](https://github.com/Muigai-ben/AirBnB_clone#files-in-this-repository)
+* [Usage](https://github.com/Muigai-ben/AirBnB_clone#usage)
+* [Installation](https://github.com/Muigai-ben/AirBnB_clone#installation)
+* [Example Usage](https://github.com/Muigai-ben/AirBnB_clone#example-usage)
+* [Technologies Used](https://github.com/Muigai-ben/AirBnB_clone#technologies-used)
+* [Authors](https://github.com/Muigai-ben/AirBnB_clone#authors)
 ---
 
 ### Description
